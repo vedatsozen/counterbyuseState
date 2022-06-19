@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  color:red;
+  margin:auto;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#container {
+  margin: auto;
+  margin-top: 150px;
+  height:270px;
+  width: 200px;
+  border:1px solid crimson;
+  padding: 5px;
+  background-color: black;
+  color: white;
+}
+
+button {
+  margin: auto;
+  margin-right: 4px;
+  cursor: pointer;
+  background-color: red;
+  color:white;
+  padding: 3px;
+  font-size: 15px;
+  border: none;
+  border-radius: 3px;
+}
+
+h1 {
+  font-size: 70px;
+}
